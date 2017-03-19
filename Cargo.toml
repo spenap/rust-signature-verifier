@@ -1,0 +1,9 @@
+[package]
+name = "signature_verifier"
+version = "0.1.0"
+authors = ["Simon Pena <spenap@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
+openssl = "0.9.9"
+rpassword = "0.3.1"
